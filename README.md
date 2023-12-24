@@ -1,8 +1,20 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Partheepan!;+I'm+a+Front+end+Developer;+I'm+a+UI+Designer;+I'm+a+WordPress+Designer;+I'm+a+Graphic+Designer;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Piraichselvan!;+I'm+a+App+Developer;+I'm+a+Front+end+Developer;+I'm+a+UI+Designer;+I'm+a+Graphic+Designer;" />
 </h1>
-<h1 align="center">Hi 👋, I'm Piraichselvan</h1>
-<h3 align="center">App developer | Web developer | designer | Video editor</h3>
+
+<h4 align="center">I am Piraichselvan, pursuing a BSc Honours degree in Software Engineering at Sabaragamuwa University of Sri Lanka. I am keenly interested in the versatility of computing, and exploring various aspects of this dynamic field.
+</h4>
+
+
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript" /><br>
+    <img src="https://skillicons.dev/icons?i=c,java,mysql,docker,github,vscode" /><br>
+<img src="https://skillicons.dev/icons?i=figma,ps,xd" />
+</div>
+<br><br>
+<hr/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pirai9&label=Profile%20views&color=0e75b6&style=flat" alt="pirai9" /> </p>
 
