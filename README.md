@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Piraichselvan!;+I'm+a+App+Developer;+I'm+a+Front+end+Developer;+I'm+a+UI+Designer;+I'm+a+Graphic+Designer;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Piraichselvan!;+I'm+a+AI+Developer;+I'm+a+Full+stack+Developer;+I'm+a+UI+Designer;" />
 </h1>
 
 <h4 align="center">I am Piraichselvan, pursuing a BSc Honours degree in Software Engineering at Sabaragamuwa University of Sri Lanka. I am kindly interested in the versatility of computing, and exploring various aspects of this dynamic field.
